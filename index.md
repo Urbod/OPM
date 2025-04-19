@@ -1,6 +1,6 @@
 # Operations Manual – Source of Truth
 
-Welcome to the ESUK OPM – April 2025 Edition. Below are the core sections:
+Welcome to the OPM – April 2025 Edition. Below are the core sections:
 
 - [1. Strategy](./section-01-1--strategy.md)
 - [2. CUIDAR Framework](./section-02-2--cuidar-framework.md)
